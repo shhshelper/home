@@ -1,6 +1,6 @@
-setup=function() {
+void setup() {
     size(400, 400);
-  };
+  }
   var ballSize=25;
 var scoredOn=0;
 var old=millis();
